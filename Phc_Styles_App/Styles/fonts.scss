@@ -1,0 +1,20 @@
+﻿// $roboto-font-path: "~roboto-fontface/fonts";
+
+// @import "~roboto-fontface/css/roboto/sass/roboto-fontface";
+@font-face {
+    font-family: "dinot";
+    src: url('../wwwroot/css/fonts/font-dinot/DINOT-Regular.eot?1421975322  ');
+    src: url('../wwwroot/css/fonts/font-dinot/DINOT-Regular.eot?&1421975322#iefix') format('embedded-opentype'), url('../wwwroot/css/fonts/font-dinot/DINOT-Regular.woff?1422542350') format('woff'), url('../wwwroot/css/fonts/font-dinot/DINOT-Regular.ttf?1422542350') format('truetype'), url('../wwwroot/css/fonts/font-dinot/DINOT-Regular.svg?1421975322') format('svg');
+}
+
+@font-face {
+    font-family: "dinot-medium";
+    src: url('../wwwroot/css/fonts/font-dinot/DINOT-Medium.eot?1421975322');
+    src: url('../wwwroot/css/fonts/font-dinot/DINOT-Medium.eot?&1421975322#iefix') format('embedded-opentype'), url('../wwwroot/css/fonts/font-dinot/DINOT-Medium.woff?1421975322') format('woff'), url('../wwwroot/css/fonts/font-dinot/DINOT-Medium.ttf?1421975322') format('truetype'), url('../wwwroot/css/fonts/font-dinot/DINOT-Medium.svg?1421975322') format('svg');
+}
+
+@font-face {
+    font-family: "dinot-bold";
+    src: url('../wwwroot/css/fonts/font-dinot/DINOT-Bold.eot?1422309628');
+    src: url('../wwwroot/css/fonts/font-dinot/DINOT-Bold.eot?&1422309628#iefix') format('embedded-opentype'), url('../wwwroot/css/fonts/font-dinot/DINOT-Bold.woff?1422309628') format('woff'), url('../wwwroot/css/fonts/font-dinot/DINOT-Bold.ttf?1422309628') format('truetype'), url('../wwwroot/css/fonts/font-dinot/DINOT-Bold.svg?1422309628') format('svg');
+}
